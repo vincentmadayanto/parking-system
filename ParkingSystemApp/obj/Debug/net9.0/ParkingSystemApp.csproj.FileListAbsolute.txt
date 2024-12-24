@@ -1,0 +1,14 @@
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/bin/Debug/net9.0/ParkingSystemApp
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/bin/Debug/net9.0/ParkingSystemApp.deps.json
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/bin/Debug/net9.0/ParkingSystemApp.runtimeconfig.json
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/bin/Debug/net9.0/ParkingSystemApp.dll
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/bin/Debug/net9.0/ParkingSystemApp.pdb
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/obj/Debug/net9.0/ParkingSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/obj/Debug/net9.0/ParkingSystemApp.AssemblyInfoInputs.cache
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/obj/Debug/net9.0/ParkingSystemApp.AssemblyInfo.cs
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/obj/Debug/net9.0/ParkingSystemApp.csproj.CoreCompileInputs.cache
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/obj/Debug/net9.0/ParkingSystemApp.dll
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/obj/Debug/net9.0/refint/ParkingSystemApp.dll
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/obj/Debug/net9.0/ParkingSystemApp.pdb
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/obj/Debug/net9.0/ParkingSystemApp.genruntimeconfig.cache
+/home/enigma/RiderProjects/ParkingSystemApp/ParkingSystemApp/obj/Debug/net9.0/ref/ParkingSystemApp.dll
